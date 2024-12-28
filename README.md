@@ -11,7 +11,7 @@
 </div>
 
 <div align="left">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
   <img src="https://komarev.com/ghpvc/?username=mdmishab124&label=Profile%20views&color=0e75b6&style=flat" alt="mdmishab124" />
 
@@ -28,7 +28,6 @@
   - ⚡ Fun fact **99% of bugs in my projects are "features" in disguise! 😄**
 </div>
 
-<br/>
 <br/>
 <br/>
 
