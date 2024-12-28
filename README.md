@@ -67,13 +67,42 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
+<div align="center">
+  <picture>
+    <!-- Light Mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=mishabvibes&theme=default&hide=contribs,issues&show_icons=true&hide_border=true"
+    />
+    <!-- Dark Mode -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mishabvibes&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true"
+      alt="Mishab's GitHub stats"
+    />
+  </picture>
 
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=mishabvibes&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Mishab's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishabvibes&theme=github_dark&layout=compact&hide_border=true" /> |
-  |-------------|-------------|
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mishabvibes&theme=default&layout=compact&hide_border=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishabvibes&theme=github_dark&layout=compact&hide_border=true"
+      alt="Mishab's top languages"
+    />
+  </picture>
 
-  <br/>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishabvibes&theme=github_dark&layout=compact&hide_border=true" alt="mishabvibes" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mishabvibes&theme=default&layout=compact&hide_border=true"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mishabvibes&theme=github_dark&layout=compact&hide_border=true"
+      alt="Mishab's GitHub streak"
+    />
+  </picture>
+</div>
 
   <br/>
   <br/>
