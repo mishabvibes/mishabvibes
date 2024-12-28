@@ -29,14 +29,8 @@
 </div>
 
 <br/>
-
-
 <br/>
 <br/>
-
-
-<br/>
-
 
 <div align="center">
   <h2>Languages and Tools</h2>
