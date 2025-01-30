@@ -114,3 +114,27 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </div>
+
+### Why Work With Me?
+- **Passionate Problem Solver:** I thrive on turning complex challenges into elegant solutions.
+- **Continuous Learner:** Always exploring new technologies to stay ahead of the curve.
+- **Collaborative Spirit:** Let's build something amazing together!
+
+---
+
+<div align="center">
+  <h3>Let's Connect!</h3>
+  <p>
+    <a href="https://github.com/mishabvibes" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/muhammed-mishab-71311034a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mishabvibes@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>
+
+---
