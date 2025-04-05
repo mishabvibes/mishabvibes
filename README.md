@@ -19,7 +19,7 @@
 
   - 🌱 I'm currently learning **MERN Stack – MongoDB + Express + React + Node.js**
 
-  - 👨‍💻 All of my projects are available at [https://github.com/mishabvibes/](https://github.com/mishabvibes/) – Where the magic lives
+  - 👨‍💻 All of my projects are available at [mishabvibes](https://github.com/mishabvibes/) – Where the magic lives
 
   - 💬 Ask me about **Turning coffee ☕ into code – Django, React, Tailwind CSS**
 
