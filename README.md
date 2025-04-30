@@ -17,11 +17,11 @@
 
   ### About Me:
 
-  - 🌱 I'm currently learning **MERN Stack – MongoDB + Express + React + Node.js**
+  - 🌱 I'm currently mastering **Next.js Full-Stack Development – Building scalable, performant web apps**
 
   - 👨‍💻 All of my projects are available at [mishabvibes](https://github.com/mishabvibes/) – Where the magic lives
 
-  - 💬 Ask me about **Turning coffee ☕ into code – Django, React, Tailwind CSS**
+  - 💬 Ask me about **Turning coffee ☕ into code – Next.js, Django, TypeScript, React, Tailwind CSS**
 
   - 📫 How to reach me **mishabvibes@gmail.com** – Let's chat. I don't byte… much!
 
