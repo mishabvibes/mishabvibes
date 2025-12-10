@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGV9Dzqa8IpBw/profile-displaybackgroundimage-shrink_350_1400/B4EZifDjzUHgAk-/0/1755015169113?e=1767225600&v=beta&t=lVhYZ3eUN7zTMBb1iQeIjE6Oe8XM6MHdfinNBFvqbrc" alt="Mishab Vibes Banner" width="100%" />
+  <img src="banner.png" alt="Mishab Vibes Banner" width="100%" />
 
   # Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Mishab
   ### 🚀 Crafting Full-Stack Magic from India
