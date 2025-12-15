@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Mishab Vibes Banner" width="100%" />
+  <img src="banner1.png" alt="Mishab Vibes Banner" width="100%" />
 
   # Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Mishab
   ### 🚀 Crafting Full-Stack Magic from India
